@@ -5,8 +5,8 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = '031c8f943141c629cf7f8d7765eae0911132f2a8'
-AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-danielpardo716.git'
+AESD_ASSIGNMENTS_VERSION = 4d12b9b8294a06d0545777ab27367291e33b0ca3
+AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-danielpardo716.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
